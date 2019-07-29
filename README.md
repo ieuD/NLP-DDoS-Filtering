@@ -1,1 +1,1 @@
-## Doc2Vec embedding yöntemi ile TCP-Flood Atağının Tespit Edilmesi
+## Doc2Vec Word embedding yöntemi ile TCP-Flood Atağının Tespit Edilmesi
